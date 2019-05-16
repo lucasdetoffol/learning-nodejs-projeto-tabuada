@@ -34,6 +34,13 @@ A aplicaçao está confugurada para rodar na porta 3000.
 Para acessar a aplicação entrar no endereco
 http://localhost:3000. Para alterar o número de porta editar arquivo `app.js`.
 
-git add 'nome do arquivo'
-git commit -m
-git push 
+## Desenvolvimento
+
+O projeto foi desenvolvido com:
+
+*[Node.js](https://node.js.org) - Plataforma de desenvolvimento Javascript.
+
+*[Sublime text](https://www.sublimetext.com)-Editor de texto para programção
+
+## Autores
+* **Lucas Detoffol Lemos** - [lucasdetoffol](https://github.com/lucasdetoffol/)
