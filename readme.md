@@ -5,12 +5,12 @@ Este é um projeto para ensino de Node.js. O objetivo deste projeto é criar um 
 git
 ## Pré-requisitos
 
-*Node.js(https://node.js.org). Verifique a instalção digitando:
+*Node.js(https://nodejs.org). Verifique a instalção digitando:
 ```bash
 $ node --version
 ```
 
-* Client Git (https://git-scm-.com). Verifique a instalação digitando:
+* Client Git (https://git-scm.com). Verifique a instalação digitando:
 ```bash
 $ git --version
 ```
@@ -38,7 +38,7 @@ http://localhost:3000. Para alterar o número de porta editar arquivo `app.js`.
 
 O projeto foi desenvolvido com:
 
-*[Node.js](https://node.js.org) - Plataforma de desenvolvimento Javascript.
+*[Node.js](https://nodejs.org) - Plataforma de desenvolvimento Javascript.
 
 *[Sublime text](https://www.sublimetext.com)-Editor de texto para programção
 
